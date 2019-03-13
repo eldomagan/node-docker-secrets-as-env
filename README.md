@@ -11,7 +11,7 @@ npm install --save docker-secrets-as-env
 ## Usage
 
 ```js
-require('docker-secrets-as-env)(options)
+require('docker-secrets-as-env')(options)
 ```
 
 ### Options
